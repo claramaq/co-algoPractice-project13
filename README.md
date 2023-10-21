@@ -5,6 +5,7 @@
 - [ ] Work on 2 - 3 beginner level challenges from any of the above platforms (or one from each!)
 - [ ] Push all of your code to the GitHub repo you created
 - [ ] Submit a link to your repo and, if it’s a private repo, add your TA as a collaborator
+
 **Step 2**
 - [ ] Add mini project you completed outside of class to the projects section of your website. 
 - [ ] Include a screenshot, a title, a brief description, and a link to the code on GitHub. 
