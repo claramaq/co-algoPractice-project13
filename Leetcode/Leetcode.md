@@ -1,4 +1,5 @@
-#LeetCode
+![LeetCode Icon](leetcode.svg)
+# LeetCode
 
 **Portfolio:** [claramaq](https://leetcode.com/claramaq/)
 

@@ -1,8 +1,8 @@
-![Codewars](codewars.svg)
+![Codewars Icon](codewars.svg)
 # CodeWars
 
 **Portfolio:** [claramaq](https://www.codewars.com/users/claramaq)
 
 **Projects Completed:** 1
 
-- Counting Sheep
+- [Counting Sheep](counting-sheep.js)
