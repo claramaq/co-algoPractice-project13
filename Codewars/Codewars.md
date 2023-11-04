@@ -1,5 +1,5 @@
 ![Codewars](codewars.svg)
-#CodeWars
+# CodeWars
 
 **Portfolio:** [claramaq](https://www.codewars.com/users/claramaq)
 
