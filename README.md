@@ -2,9 +2,9 @@
 **Step 1**
 - [x] Sign up for free accounts on LeetCode, HackerRank, and CodeWars.
 - [x] Create a GitHub repository with 3 folders (one for each of the above platforms), and a brief README file with at least 2 sentences describing your repo
-- [ ] Work on 2 - 3 beginner level challenges from any of the above platforms (or one from each!)
-- [ ] Push all of your code to the GitHub repo you created
-- [ ] Submit a link to your repo and, if it’s a private repo, add your TA as a collaborator
+- [x] Work on 2 - 3 beginner level challenges from any of the above platforms (or one from each!)
+- [x] Push all of your code to the GitHub repo you created
+- [x] Submit a link to your repo and, if it’s a private repo, add your TA as a collaborator
 
 **Step 2: [Mini Project](https://github.com/claramaq/whatToEat)**
 - [x] Add mini project you completed outside of class to the projects section of your website. 
