@@ -3,4 +3,6 @@
 
 **Portfolio:** [claramaq](https://leetcode.com/claramaq/)
 
-**Projects Completed:** 0
+**Projects Completed:** 1
+
+- [Plus One](plus-one.js)
